@@ -1,28 +1,30 @@
-## Hi there
+## Hi there 
 
 I'm Sudharshan — a passionate tech enthusiast focused on cybersecurity, full-stack development, and building powerful tools with Python & Flask. I enjoy solving problems, contributing to open source, and constantly pushing my learning boundaries.
 
 ---
 
-### 🚀 GitHub Stats
+###  GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-Sudharshan&show_icons=true&theme=radical&border_radius=15&hide_title=true" alt="Sudharshan's GitHub Stats" height="180" />
-</p>
+<table>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-Sudharshan&theme=radical" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R-Sudharshan&theme=radical" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=R-Sudharshan&theme=radical" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-Sudharshan&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R-Sudharshan&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=R-Sudharshan&theme=radical" />
-</p>
-
----
-
-### 🧑‍💻 Developer Stats
+###  Developer Stats
 
 ![Pull Requests](https://img.shields.io/badge/Pull%20Requests-TRACKED-blueviolet?style=for-the-badge&logo=github)
 ![Issues](https://img.shields.io/badge/Issues-TRACKED-ff69b4?style=for-the-badge&logo=github)
@@ -31,7 +33,7 @@ I'm Sudharshan — a passionate tech enthusiast focused on cybersecurity, full-s
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -44,9 +46,9 @@ I'm Sudharshan — a passionate tech enthusiast focused on cybersecurity, full-s
 
 ---
 
-### 📬 Connect with Me
+###  Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sudharshan-r/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sudharshan-r-b0b21928a/)
 [![Mail](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudharshanr008@gmail.com)
 
 ---
