@@ -41,10 +41,6 @@ I'm Sudharshan — a passionate tech enthusiast focused on cybersecurity, full-s
   <img src="https://github-readme-streak-stats.herokuapp.com?user=R-Sudharshan&theme=tokyonight" />
 </p>
 
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-TRACKED-blueviolet?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/badge/Issues-TRACKED-ff69b4?style=for-the-badge&logo=github)
-![Commits](https://img.shields.io/badge/Commits-CONSISTENT-brightgreen?style=for-the-badge&logo=git)
-![Code Reviews](https://img.shields.io/badge/Code%20Reviews-ACTIVE-orange?style=for-the-badge&logo=github)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-Sudharshan&theme=tokyonight" />
 </p>
