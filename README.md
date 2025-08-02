@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there I'm Sudharshan 
 <h1 align="center"> Dashboard</h1>
 
 I'm Sudharshan — a passionate tech enthusiast focused on cybersecurity, full-stack development, and building powerful tools with Python & Flask. I enjoy solving problems, contributing to open source, and constantly pushing my learning boundaries.
@@ -13,7 +13,11 @@ I'm Sudharshan — a passionate tech enthusiast focused on cybersecurity, full-s
 ---
 
 ###  GitHub Dashboard
-
+## 📊 Live GitHub Stats
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R-Sudharshan&show_icons=true&theme=tokyonight&hide_title=true&hide=stars&count_private=true" />
+</p>
 <table>
   <tr>
     <td colspan="2">
@@ -29,22 +33,12 @@ I'm Sudharshan — a passionate tech enthusiast focused on cybersecurity, full-s
     </td>
   </tr>
 </table>
-## 📊 Live GitHub Stats
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-Sudharshan&show_icons=true&theme=tokyonight&hide_title=true&hide=stars&count_private=true" />
-</p>
 
 ###  Developer Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=R-Sudharshan&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-Sudharshan&theme=tokyonight" />
-</p>
-
 ---
 
 ### 🛠 Tech Stack
