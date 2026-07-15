@@ -1,42 +1,110 @@
-<h1 align="center"> Dashboard</h1>
-<h3>I'm Sudharshan a passionate tech enthusiast focused on cybersecurity, full-stack development, and building powerful tools with Python & Flask. I enjoy solving problems, contributing to open source, and constantly pushing my learning boundaries.</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=200&section=header&text=Sudharshan%20R&fontSize=42&fontColor=c0caf5&fontAlignY=35&animation=fadeIn&desc=Cybersecurity%20Enthusiast.%20Full-Stack%20Developer.%20Problem%20Solver.&descSize=16&descColor=7aa2f7&descAlignY=55" alt="header" />
 
----
-## 📊 Live GitHub Stats
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;Python+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=R-Sudharshan&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
+
+</div>
+
+<br/>
+
+## About Me
+
+<p>
+I am a passionate tech enthusiast focused on cybersecurity, full-stack development, and building powerful tools with Python & Flask. I enjoy solving problems, contributing to open source, and constantly pushing my learning boundaries.
+</p>
+
+```yaml
+name: Sudharshan R
+role: Developer & Tech Enthusiast
+education: Computer Science
+
+interests:
+  - Cybersecurity
+  - Full Stack Development
+  - Open Source
+  - Tool Building
+
+currently_building:
+  - Python & Flask applications
+  - Full-stack web projects
+  - Cybersecurity tools
+
+tools_i_love:
+  - Python
+  - Flask
+  - Linux
+  - Firebase
+  - React
+```
+
+<br/>
+
+## Socials
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-Sudharshan&show_icons=true&theme=tokyonight&hide_title=true&hide=stars&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=R-Sudharshan&theme=tokyonight" />
-</p>
-<p  align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-Sudharshan&theme=radical" width="75%" />
-</p>
-
----
-
-### 🛠 Tech Stack
----
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Sudharshan&layout=compact&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/sudharshan-r-b0b21928a/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:sudharshanr008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
----
+<br/>
 
-###  Connect with Me
+## Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sudharshan-r-b0b21928a/)
-[![Mail](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudharshanr008@gmail.com)
+<table>
+  <tr>
+    <td align="center" width="140"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><strong>Cloud & Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/firebase-%23ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
----
-<p align="center">
-  <b>✨ This dashboard updates live with every new commit, issue, PR, or contribution!</b>
-</p>
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R-Sudharshan&show_icons=true&theme=tokyonight&hide_title=true&hide=stars&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=R-Sudharshan&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Sudharshan&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=140&section=footer&text=%3Aw%20Thanks%20for%20visiting.&fontSize=22&fontColor=c0caf5&fontAlignY=55&animation=fadeIn&desc=%3Aq&descSize=14&descColor=7aa2f7&descAlignY=75" alt="footer" />
