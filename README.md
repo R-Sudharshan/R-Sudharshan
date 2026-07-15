@@ -98,11 +98,11 @@ tools_i_love:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-Sudharshan&show_icons=true&theme=tokyonight&hide_title=true&hide=stars&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ten-psi.vercel.app/api?username=R-Sudharshan&show_icons=true&theme=tokyonight&hide_title=true&hide=stars&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=R-Sudharshan&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Sudharshan&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-ten-psi.vercel.app/api/top-langs/?username=R-Sudharshan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
